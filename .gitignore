@@ -4,3 +4,4 @@ inifolderku
 
 # untuk meremove yang sudah terlanjur ke add / masuk stage
 # git rm --cached z.py
+# .gitignore tidak bisa meremove file yang sudah di github
