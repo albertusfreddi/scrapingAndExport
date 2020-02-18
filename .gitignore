@@ -1,5 +1,6 @@
 0.py
 inifolderku
+1.py
 
 # untuk meremove yang sudah terlanjur ke add / masuk stage
 # git rm --cached z.py
