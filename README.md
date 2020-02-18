@@ -75,8 +75,8 @@ print(x)
 $ git commit -m "tes commit"
 ```
 
-No. | Nama | Usia | kota
+No.|Nama|Usia|kota
 -|-|-|-
-1. | Andi | 21 | jakarta
-2. | budi | 25 | Bandung
-3. | Caca | 23 | Semarang
+1.|Andi|21|jakarta
+2.|budi|25|Bandung
+3.|Caca|23|Semarang
